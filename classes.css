@@ -1,1 +1,8 @@
 /* Use a period and a class name to select all elements with a certain class. */
+.thicker {
+  font-weight: 900;
+}
+
+.slanted {
+  font-style: italic;
+}

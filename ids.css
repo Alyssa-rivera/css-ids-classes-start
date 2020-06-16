@@ -1,4 +1,6 @@
 /* Use a hashtag and an ID to select a specific element */
-p {
-  color: red;
+
+
+#para1 {
+  color: blue;
 }
